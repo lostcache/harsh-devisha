@@ -1,9 +1,11 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   images: {
-    unoptimized: true
+    unoptimized: true,
   },
-  output: "export"
+  output: "export",
+  basePath: "/harsh-devisha",
+  assetPrefix: "/harsh-devisha/",
 };
 
 module.exports = nextConfig;
