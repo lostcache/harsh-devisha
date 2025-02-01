@@ -1,3 +1,4 @@
+{/* eslint-disable react/no-unescaped-entities */}
 import { FaGithub, FaLinkedin, FaEnvelope, FaReact, FaNode, FaAws, FaGit, FaDocker, FaPython, FaJava, FaExternalLinkAlt } from 'react-icons/fa';
 import { SiJavascript, SiTypescript, SiRust, SiZig, SiOcaml, SiC, SiCplusplus, SiExpress, SiFlask, SiDjango, SiMongodb, SiGooglecloud, SiNextdotjs } from 'react-icons/si';
 import { TbSql } from 'react-icons/tb';
@@ -60,10 +61,10 @@ export default function Home() {
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold mb-8 text-center">About Me</h2>
           <div className="text-base sm:text-lg text-gray-700 leading-relaxed">
             <p className="mb-4">
-              Hi! I&aposm a <span className="bg-gradient-to-r from-blue-500 to-purple-600 text-transparent bg-clip-text font-semibold">Software Engineer</span> with 2 years of professional experience as a <span className="bg-gradient-to-r from-blue-500 to-purple-600 text-transparent bg-clip-text font-semibold">Full-Stack Developer</span>. My core interests lie in <span className="bg-gradient-to-r from-blue-500 to-purple-600 text-transparent bg-clip-text font-semibold">Distributed Systems</span>, <span className="bg-gradient-to-r from-blue-500 to-purple-600 text-transparent bg-clip-text font-semibold">Concurrency</span>, and <span className="bg-gradient-to-r from-blue-500 to-purple-600 text-transparent bg-clip-text font-semibold">Systems Programming</span>.
+              Hi! I'm a <span className="bg-gradient-to-r from-blue-500 to-purple-600 text-transparent bg-clip-text font-semibold">Software Engineer</span> with 2 years of professional experience as a <span className="bg-gradient-to-r from-blue-500 to-purple-600 text-transparent bg-clip-text font-semibold">Full-Stack Developer</span>. My core interests lie in <span className="bg-gradient-to-r from-blue-500 to-purple-600 text-transparent bg-clip-text font-semibold">Distributed Systems</span>, <span className="bg-gradient-to-r from-blue-500 to-purple-600 text-transparent bg-clip-text font-semibold">Concurrency</span>, and <span className="bg-gradient-to-r from-blue-500 to-purple-600 text-transparent bg-clip-text font-semibold">Systems Programming</span>.
             </p>
             <p className="mb-4">
-              I&aposm passionate about exploring new programming languages, currently learning <span className="bg-gradient-to-r from-blue-500 to-purple-600 text-transparent bg-clip-text font-semibold">Zig</span> and <span className="bg-gradient-to-r from-blue-500 to-purple-600 text-transparent bg-clip-text font-semibold">OCaml</span>. My research interests focus on <span className="bg-gradient-to-r from-blue-500 to-purple-600 text-transparent bg-clip-text font-semibold">Federated Learning</span> and <span className="bg-gradient-to-r from-blue-500 to-purple-600 text-transparent bg-clip-text font-semibold">Hybrid Federated Learning Systems</span>.
+              I'm passionate about exploring new programming languages, currently learning <span className="bg-gradient-to-r from-blue-500 to-purple-600 text-transparent bg-clip-text font-semibold">Zig</span> and <span className="bg-gradient-to-r from-blue-500 to-purple-600 text-transparent bg-clip-text font-semibold">OCaml</span>. My research interests focus on <span className="bg-gradient-to-r from-blue-500 to-purple-600 text-transparent bg-clip-text font-semibold">Federated Learning</span> and <span className="bg-gradient-to-r from-blue-500 to-purple-600 text-transparent bg-clip-text font-semibold">Hybrid Federated Learning Systems</span>.
             </p>
           </div>
         </div>
@@ -163,7 +164,7 @@ export default function Home() {
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold mb-8 text-center">Contact Me</h2>
           <div className="text-center">
             <p className="text-lg sm:text-xl text-gray-700 mb-6">
-              I&aposm always open to new opportunities and collaborations.
+              I'm always open to new opportunities and collaborations.
             </p>
             <a
               href="mailto:harshdevisha91@gmail.com"
