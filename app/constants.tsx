@@ -15,8 +15,8 @@ export const projects: Project[] = [
     },
 
     {
-        title: "CV Generator",
-        description: "Internal tool developed for company use. Streamlines the process of creating and managing professional CVs.",
+        title: "NLS Employee Profile Portal",
+        description: "Internal tool developed for company use. Streamlines the process of creating and managing professional profiles.",
         link: "https://cvgenerator.nexuslinkservices.com/login",
     },
     {
