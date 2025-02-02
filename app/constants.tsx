@@ -11,7 +11,7 @@ export const projects: Project[] = [
     {
         title: "1Label",
         description: "Professional project developed during previous role. An ordering system for labels with advanced customization options.",
-        link: "https://order.1-label.com/",
+        link: "https://portal.1-label.com",
     },
 
     {
